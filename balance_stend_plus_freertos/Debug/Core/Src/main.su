@@ -1,0 +1,11 @@
+../Core/Src/main.c:147:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/main.c:155:6:HAL_TIM_IC_CaptureCallback	24	static
+../Core/Src/main.c:202:6:MPU6050_Init	32	static
+../Core/Src/main.c:237:6:mpu6050_read_accel	40	static
+../Core/Src/main.c:259:6:lcd1602_print	16	static
+../Core/Src/main.c:346:6:FRRTS_IMU_PROCESS	24	static
+../Core/Src/main.c:364:6:FRRTS_LCD_PRINT	112	static
+../Core/Src/main.c:391:5:main	16	static
+../Core/Src/main.c:496:6:SystemClock_Config	88	static
+../Core/Src/main.c:547:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:564:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,11 @@
+main.c:147:6:vApplicationGetIdleTaskMemory	1
+main.c:155:6:HAL_TIM_IC_CaptureCallback	5
+main.c:202:6:MPU6050_Init	2
+main.c:237:6:mpu6050_read_accel	2
+main.c:259:6:lcd1602_print	13
+main.c:346:6:FRRTS_IMU_PROCESS	2
+main.c:364:6:FRRTS_LCD_PRINT	2
+main.c:391:5:main	1
+main.c:496:6:SystemClock_Config	3
+main.c:547:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:564:6:Error_Handler	1
